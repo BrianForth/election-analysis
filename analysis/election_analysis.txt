@@ -11,3 +11,14 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+
+Election Results by County
+-------------------------
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+County with the Highest Turnout: Denver
+Total Votes from Denver County: 306,055
+Percent of Total Votes Cast: 82.8%
+-------------------------
