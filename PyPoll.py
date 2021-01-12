@@ -116,3 +116,4 @@ with open(file_to_save, "w") as txt_file:
     print(turnout_county_summary)
     # Save the highest turnout county's results to the text file.
     txt_file.write(turnout_county_summary)
+    
